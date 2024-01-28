@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="csc301 design.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.51670355"
+     inkscape:cx="925.09525"
+     inkscape:cy="546.73516"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="531.25238"
+       y="780.91199"
+       width="138.37721"
+       height="64.834084"
+       id="rect26" />
+  </defs>
+  <g
+     inkscape:label="Backdrop"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="1917.2631"
+       height="1077.0065"
+       x="1.3684961"
+       y="2.7369921" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Overview Page"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Overview Graph">
+      <rect
+         style="fill:#2020b6;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect19"
+         width="931.9458"
+         height="410.54883"
+         x="476.23663"
+         y="251.80328"
+         ry="31.47541" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9"
+         x="541.89679"
+         y="309.6553"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="541.89679"
+           y="309.6553">Graph Overview</tspan></text>
+      <path
+         style="fill:none;stroke:#242a67;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 541.2402,376.33642 v 228.53885 h 791.675"
+         id="path21"
+         inkscape:label="path21" />
+      <path
+         style="fill:none;stroke:#00bcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 541.92445,520.02851 130.00713,-62.26657 100.58446,41.05488 117.69066,-9.57947 82.10977,-62.95082 74.58303,-12.31647 78.0043,22.58019 99.2159,40.37063 59.5296,-13.68496 44.4761,12.31647"
+         id="path22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Steps Summary">
+      <rect
+         style="fill:#2020b6;fill-opacity:1;stroke-width:0.0917789;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect19-0"
+         width="264.21207"
+         height="174.2686"
+         x="475.3685"
+         y="700.68726"
+         ry="13.360593" />
+      <rect
+         style="fill:#2020b6;fill-opacity:1;stroke-width:0.0917789;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect19-0-1"
+         width="264.21207"
+         height="174.2686"
+         x="809.66943"
+         y="700.68726"
+         ry="13.360593" />
+      <rect
+         style="fill:#2020b6;fill-opacity:1;stroke-width:0.0917789;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect19-0-3"
+         width="264.21207"
+         height="174.2686"
+         x="1143.9703"
+         y="700.68726"
+         ry="13.360593" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9"
+         x="570.927"
+         y="745.59192"
+         id="text23"><tspan
+           sodipodi:role="line"
+           id="tspan23"
+           x="570.927"
+           y="745.59192">Step Tracker</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9"
+         x="872.84094"
+         y="748.65857"
+         id="text24"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="872.84094"
+           y="748.65857">Calorie Tracker</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
+         x="1226.0415"
+         y="745.59192"
+         id="text25"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="1226.0415"
+           y="745.59192">Sleep Tracker</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text26"
+         style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect26);display:inline"
+         transform="translate(14.542576,-3.5320824)"><tspan
+           x="531.25195"
+           y="829.43876"
+           id="tspan5"><tspan
+             style="fill:#ffffff"
+             id="tspan3">3424</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+         x="885.2688"
+         y="825.90668"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="885.2688"
+           y="825.90668"
+           style="font-size:53.3333px;fill:#ffffff">2341</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+         x="1222.6364"
+         y="826.76001"
+         id="text29"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           x="1222.6364"
+           y="826.76001"
+           style="fill:#ffffff">6.2h</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Nutrition Page" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Persistent Elements">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Sidetab">
+      <path
+         id="rect2"
+         style="fill:#2020b6;fill-opacity:1;stroke-width:0.36808;stroke-linejoin:bevel;stroke-opacity:0"
+         d="m 9.7460938,2.7363281 c -3.2141003,0 -6.345782,0.315107 -9.42773442,0.7753907 V 1079.8672 c 3.08195242,0.4603 6.21363412,0.7754 9.42773442,0.7754 H 320.39453 c 34.87472,0 62.95117,-28.0765 62.95117,-62.9512 V 65.6875 c 0,-34.87472 -28.07645,-62.9511719 -62.95117,-62.9511719 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="162.85103"
+         y="93.878258"
+         id="text2"
+         inkscape:label="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="162.85103"
+           y="93.878258">App Title</tspan></text>
+      <circle
+         style="fill:#999999;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path2"
+         cx="79.372772"
+         cy="83.478256"
+         r="45.16037" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect3"
+         width="195.46991"
+         height="26.127169"
+         x="159.20906"
+         y="462.9137"
+         ry="12.579748" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect3-0"
+         width="195.46991"
+         height="26.127169"
+         x="159.20906"
+         y="546.98352"
+         ry="12.579748" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect3-9"
+         width="195.46991"
+         height="26.127169"
+         x="159.20906"
+         y="631.05328"
+         ry="12.579748" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect3-92"
+         width="195.46991"
+         height="26.127169"
+         x="159.20906"
+         y="715.12305"
+         ry="12.579748" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect3-95"
+         width="195.46991"
+         height="26.127169"
+         x="159.20906"
+         y="799.19287"
+         ry="12.579748" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path3-1"
+         cx="84.256477"
+         cy="475.97729"
+         r="22.256475" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path3-0"
+         cx="84.256477"
+         cy="560.04712"
+         r="22.256475" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path3-00"
+         cx="84.256477"
+         cy="644.11688"
+         r="22.256475" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path3-14"
+         cx="84.256477"
+         cy="728.18665"
+         r="22.256475" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path3-07"
+         cx="84.256477"
+         cy="812.25647"
+         r="22.256475" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Search Bar">
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.264567;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect18"
+         width="818.36066"
+         height="62.950821"
+         x="476.23663"
+         y="42.423382"
+         ry="31.47541" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+         x="552.87244"
+         y="83.845474"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           x="552.87244"
+           y="83.845474">Search...</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Scrollbar">
+      <rect
+         style="fill:#282890;fill-opacity:1;stroke:#00bcfa;stroke-width:1.27979;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect22"
+         width="11.497095"
+         height="282.20273"
+         x="1902.7048"
+         y="41.806683"
+         ry="6.6016088" />
+    </g>
+  </g>
+</svg>
